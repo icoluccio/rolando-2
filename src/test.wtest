@@ -1,0 +1,5 @@
+import rolando.*
+
+test "Rolando tiene 1 de hechicería" {
+	assert.equals(1, rolando.nivelDeHechiceria())
+}
